@@ -1,0 +1,13 @@
+:root{
+  --bg: #fff;
+  --primary: blue;
+  --secondary: black;
+}
+
+.pb50{
+  padding-bottom: 50px;
+}
+
+.pb25{
+ padding-bottom: 25px;
+}
